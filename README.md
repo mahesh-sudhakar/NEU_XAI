@@ -1,5 +1,10 @@
 # NEU_XAI
 
+This repo contains keras implementation of few XAI algorithms on NEU surface defect dataset.
+
+*Training a MobileNet model on the NEU surface defect dataset using Transfer Learning, and visualizing the important features of test images using model agnostic LIME and SHAP algorithms.*
+
+
 1. NEU steel surface defect database --> Original 1800 image dataset
 
 2. NEU steel surface defect database - Test Split --> contains 180 test images with 10% partition
